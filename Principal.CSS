@@ -27,65 +27,64 @@ nav {
     display: inline-block;
     transition: all 0.3s ease; /* Agregar transición suave */
   }
-  .menu_item:hover {
+.menu_item:hover {
     background-color: rgba(221, 221, 221, 0.5); /* Cambiar color de fondo con transparencia */
     border-radius: 5px;
   }
-  header {
+header {
     background-color: #333434;
     color: #fff;
     text-align: center;
     padding: 20px;
     margin-bottom: 20px;
   }
-  section {
+section {
     padding: 20px;
     border: 1px solid #ddd;
     margin-bottom: 20px;
   }
- #Sobre-mi{
+#Sobre-mi{
     text-align: justify;
  }  
- #Habilidades ul {
+#Habilidades ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
-  
-  #Habilidades ul li {
+#Habilidades ul li {
     display: inline-block;
     padding: 5px;
     border: 1px solid #ddd;
     border-radius: 5px;
     margin-right: 10px;
   }
-  #Habilidades ul li:hover{
+#Habilidades ul li:hover{
     background-color: #ddd;
     transition: all 0.4s ease-in-out;
   }
 
 
-  #Experiencia ul {
+#Experiencia ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
   
-  #Experiencia ul li {
+#Experiencia ul li {
     margin-bottom: 10px;
   }
-  #Proyectos ul {
+#Proyectos ul {
     list-style: none;
     padding: 0;
     margin: 0;
   }
   
-  #Proyectos ul li a {
+#Proyectos ul li a {
     text-decoration: none;
     color: #333;
   }
   
-  #Proyectos ul li a:hover {
+#Proyectos ul li a:hover {
     text-decoration: underline;
   }
   #Contactos {
